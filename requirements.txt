@@ -1,0 +1,30 @@
+# langchain
+# langchain-community
+# langchain-openai
+# chromadb
+# fastapi
+# uvicorn
+# openai
+# tiktoken
+# python-dotenv
+# beautifulsoup4
+# lxml
+# html5lib
+# lxml_html_clean
+# langchain_chroma
+
+langchain==0.3.27
+langchain-chroma==0.2.6
+langchain-community==0.3.30
+langchain-core==0.3.78
+langchain-openai==0.3.35
+langchain-text-splitters==0.3.11
+chromadb==1.1.1
+fastapi==0.118.0
+uvicorn==0.37.0
+openai==2.2.0
+tiktoken==0.11.0
+python-dotenv==1.1.1
+beautifulsoup4==4.14.2
+lxml==5.4.0
+lxml_html_clean==0.4.3

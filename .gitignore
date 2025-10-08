@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Chroma vector store
+chroma_db/
+
+# Build & cache
+build/
+dist/
+*.cache
+*.mypy_cache/
+.pytest_cache/
+
+# Editors & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Docker
+*.local.yml
+docker-compose.override.yml

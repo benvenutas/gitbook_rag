@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Cache and build
+__pycache__/
+*.egg-info/
+*.log
+dist/
+build/
+
+# VSCode and IDEs
+.vscode/
+.idea/
+
+# Data and temporary files
+chroma_db/
+*.json
+*.csv
+*.md
