@@ -39,7 +39,7 @@ It is designed as a **take-home task** but follows production-grade engineering 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/oxylabs-rag.git
+git clone https://github.com/benvenutas/gitbook_rag.git
 cd oxylabs-rag
 ```
 
@@ -68,6 +68,7 @@ docker compose up -d --build
 ## 🧾 API Endpoints
 ### `POST /query`
 Retrieve an answer from Oxylabs documentation.
+
 **Request:**
 ```json
 {
