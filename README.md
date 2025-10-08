@@ -40,7 +40,7 @@ It is designed as a **take-home task** but follows production-grade engineering 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/benvenutas/gitbook_rag.git
-cd oxylabs-rag
+cd gitbook_rag
 ```
 
 ### 2. Create a .env file
